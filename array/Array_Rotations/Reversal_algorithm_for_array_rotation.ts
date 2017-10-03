@@ -5,7 +5,7 @@
  reverse(arr[], d + 1, n);
  reverse(arr[], l, n);
  Let AB are the two parts of the input array where A = arr[0..d-1] and B = arr[d..n-1]. The idea of the algorithm is:
- Reverse A to get ArB. 
+ Reverse A to get ArB.
 Reverse B to get ArBr.
     Reverse all to get (ArBr) r = BA.
 
