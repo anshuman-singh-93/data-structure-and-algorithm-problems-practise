@@ -1,5 +1,8 @@
 
+/*
 
+ Write a function rotate(ar[], d, n) that rotates arr[] of size n by d elements.
+ */
 class Program{
 
     constructor(public input:Array<number>,public d:number){
